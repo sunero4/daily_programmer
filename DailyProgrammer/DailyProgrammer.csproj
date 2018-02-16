@@ -43,17 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BalancingMySpending350\AccountBalancing.cs" />
+    <Compile Include="NetworkChallenge268\Client.cs" />
+    <Compile Include="NetworkChallenge268\IPHelper.cs" />
+    <Compile Include="NetworkChallenge268\Server.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TheRabbitProblem348\RabbitBreedingCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BalancingMySpending350\BalancingMySpending350.csproj">
-      <Project>{d8d00341-bc9f-41fb-bd96-97d962803f49}</Project>
-      <Name>BalancingMySpending350</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

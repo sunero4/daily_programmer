@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetworkChallenge268
+namespace DailyProgrammer.NetworkChallenge268
 {
     internal class Client
     {

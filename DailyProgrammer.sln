@@ -5,10 +5,6 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyProgrammer", "DailyProgrammer\DailyProgrammer.csproj", "{3E7E5AA2-6522-43D6-8219-459E60C219FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkChallenge268", "NetworkChallenge268\NetworkChallenge268.csproj", "{66A44336-4DB0-488F-9733-DC1473DB4927}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancingMySpending350", "BalancingMySpending350\BalancingMySpending350.csproj", "{D8D00341-BC9F-41FB-BD96-97D962803F49}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{3E7E5AA2-6522-43D6-8219-459E60C219FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E7E5AA2-6522-43D6-8219-459E60C219FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E7E5AA2-6522-43D6-8219-459E60C219FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66A44336-4DB0-488F-9733-DC1473DB4927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66A44336-4DB0-488F-9733-DC1473DB4927}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66A44336-4DB0-488F-9733-DC1473DB4927}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66A44336-4DB0-488F-9733-DC1473DB4927}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8D00341-BC9F-41FB-BD96-97D962803F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8D00341-BC9F-41FB-BD96-97D962803F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8D00341-BC9F-41FB-BD96-97D962803F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8D00341-BC9F-41FB-BD96-97D962803F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

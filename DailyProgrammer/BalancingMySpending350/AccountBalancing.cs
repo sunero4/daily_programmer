@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BalancingMySpending350
+namespace DailyProgrammer.BalancingMySpending350
 {
     public class AccountBalancing
     {
