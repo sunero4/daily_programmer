@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DailyProgrammer.BalancingMySpending350
 {
-    public class AccountBalancing
+    internal class AccountBalancing
     {
         /// <summary>
         /// Finds the points where the sums of the sub-sequences before and after are equal. Should be

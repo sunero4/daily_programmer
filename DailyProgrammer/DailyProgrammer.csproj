@@ -44,11 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BalancingMySpending350\AccountBalancing.cs" />
+    <Compile Include="ClosestString353\ClosestStringFinder.cs" />
+    <Compile Include="ClosestString353\HammingDistance.cs" />
+    <Compile Include="ClosestString353\IStringDistance.cs" />
+    <Compile Include="HowLongHasTheLightBeenOn347\LightsOnCalculator.cs" />
     <Compile Include="NetworkChallenge268\Client.cs" />
     <Compile Include="NetworkChallenge268\IPHelper.cs" />
     <Compile Include="NetworkChallenge268\Server.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepeatingNumbers341\RepeatingNumbers.cs" />
     <Compile Include="TheRabbitProblem348\RabbitBreedingCalculator.cs" />
   </ItemGroup>
   <ItemGroup>

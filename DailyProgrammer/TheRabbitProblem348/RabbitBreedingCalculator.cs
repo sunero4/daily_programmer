@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DailyProgrammer.TheRabbitProblem348
 {
-    class RabbitBreedingCalculator
+    internal class RabbitBreedingCalculator
     {
         private long[] _maleRabbits;
         private long[] _femaleRabbits;

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DailyProgrammer.NetworkChallenge268
 {
-    class Server
+    internal class Server
     {
         private Socket _listener;
         public bool Listening { get; set; }

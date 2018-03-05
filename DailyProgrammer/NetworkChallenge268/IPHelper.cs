@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DailyProgrammer.NetworkChallenge268
 {
-    class IPHelper
+    internal class IPHelper
     {
 
         /// <summary>
