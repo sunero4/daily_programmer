@@ -51,6 +51,7 @@
     <Compile Include="NetworkChallenge268\Client.cs" />
     <Compile Include="NetworkChallenge268\IPHelper.cs" />
     <Compile Include="NetworkChallenge268\Server.cs" />
+    <Compile Include="PerfectlyBalanced372\PerfectlyBalanced.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepeatingNumbers341\RepeatingNumbers.cs" />
