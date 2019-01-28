@@ -47,6 +47,7 @@
     <Compile Include="ClosestString353\ClosestStringFinder.cs" />
     <Compile Include="ClosestString353\HammingDistance.cs" />
     <Compile Include="ClosestString353\IStringDistance.cs" />
+    <Compile Include="HexColors369\HexColors.cs" />
     <Compile Include="HowLongHasTheLightBeenOn347\LightsOnCalculator.cs" />
     <Compile Include="NetworkChallenge268\Client.cs" />
     <Compile Include="NetworkChallenge268\IPHelper.cs" />
