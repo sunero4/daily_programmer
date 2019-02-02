@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DailyProgrammer.AdditivePersistence374;
 using DailyProgrammer.ClosestString353;
 using DailyProgrammer.HexColors369;
 using DailyProgrammer.RepeatingNumbers341;

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdditivePersistence374\AdditivePersistence.cs" />
     <Compile Include="BalancingMySpending350\AccountBalancing.cs" />
     <Compile Include="ClosestString353\ClosestStringFinder.cs" />
     <Compile Include="ClosestString353\HammingDistance.cs" />
